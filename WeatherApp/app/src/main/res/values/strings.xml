@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="celius_str">\u00B0C</string>
+    <string name="error_message_wifi">Please check WiFi connectivity.</string>
+</resources>
